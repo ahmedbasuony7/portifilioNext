@@ -70,9 +70,26 @@ export const gridItems = [
   },
 ];
 
+
 export const projects = [
   {
     id: 1,
+    title: "gameingboi ",
+    des: "“Gaming Boi is your go-to hub for the latest in video games — delivering up-to-date news, insightful reviews, practical guides, and tips across PC, console, and mobile platforms.",
+    img: "/timeline/1111.PNG",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://gameingboi.netlify.app/",
+  },
+  {
+    id: 2,
+    title: "zentrry ",
+    des: "Zentry is a sleek, modern personal or portfolio website template designed to showcase professional identity, projects, and skills. The layout emphasizes clarity and clean design, focusing on minimalistic styling, smooth transitions, and a streamlined user experience.",
+    img: "/timeline/222.PNG",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
+    link: "https://zentrry.netlify.app/",
+  },
+  {
+    id: 3,
     title: "Dashboard UI-KIT ",
     des: "Explore the wonders of Dashboard-UiKit website Developed By React.js material Ui React Router React Hock Form Calender.js Nivo library Vite.",
     img: "/timeline/7.PNG",
@@ -80,7 +97,7 @@ export const projects = [
     link: "https://dashboard-ui-kit.netlify.app/",
   },
   {
-    id: 2,
+    id: 4,
     title: "Amazon Prime ",
     des: "scalable full-stack web application inspired by Amazon Prime, employing modern frameworks as React js , Firebase.",
     img: "/timeline/8.PNG",
@@ -88,7 +105,7 @@ export const projects = [
     link: "https://aamazonn.netlify.app/",
   },
   {
-    id: 3,
+    id: 5,
     title: "Mira Dashboard mangment System ",
     des: "A REAL Software-as-a-Service app Mira Dashboard mangment system developed by react js , Typescript , React router dom , Mateial Ui , Calender Js , Nivo js",
     img: "/timeline/9.PNG",
@@ -96,7 +113,7 @@ export const projects = [
     link: "https://miira.netlify.app/",
   },
   {
-    id: 4,
+    id: 6,
     title: "Anon Website",
     des: "E-commerce website show diffrent products and categories with high valiety , using Html , Css , Javascript.",
     img: "/timeline/10.PNG",
@@ -104,7 +121,7 @@ export const projects = [
     link: "https://ahmedbasuony7.github.io/codeSoftTaskFourE-CommerceWebsite/",
   },
   {
-    id: 5,
+    id: 7,
     title: "NFTs Store",
     des: "NFTs Store Implemented advanced features in the NFT platform using React.js , providing a more streamlined experience.",
     img: "/timeline/11.PNG",
@@ -112,7 +129,7 @@ export const projects = [
     link: "https://nffts.netlify.app/",
   },
   {
-    id: 6,
+    id: 8,
     title: "House Land",
     des: "realstates website developed By React js Twailwand css",
     img: "/timeline/12.PNG",
@@ -120,37 +137,38 @@ export const projects = [
     link: "https://realsstate.netlify.app/",
   },
   {
-    id: 7,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
-  },
-  {
-    id: 8,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
-  },
-  {
     id: 9,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
-  },
-  {
-    id: 10,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://iphone9.netlify.app/",
   },
+
+  {
+    id: 10,
+    title: "readymodelui",
+    des: "ReadyModelUI is a polished and modern landing page template or UI kit built to help businesses and creators launch elegant, conversion-focused web pages with ease. It combines clean typography, strong visual hierarchy",
+    img: "timeline/0.PNG",
+    iconLists: ["/re.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://readymodelui.netlify.app/",
+  },
+  {
+    id: 11,
+    title: "cocktaiils",
+    des: "Velvet Pour is a stylish, modern site themed around cocktails, drink recipes, or a bar-/mixology-style experience. It projects an elegant, moody aesthetic with dark backgrounds and refined typography, evoking the ambience of a chic lounge or upscale cocktail bar.",
+    img: "/timeline/000.PNG",
+    iconLists: ["/re.svg", "/ts.svg", "/c.svg"],
+    link: "https://cocktaiils.netlify.app/",
+  },
+  // {
+  //   id: 12,
+  //   title: "AI Image SaaS - Canva Application",
+  //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+  //   img: "/p3.svg",
+  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+  //   link: "/ui.aiimg.com",
+  // },
 ];
 
 export const testimonials = [
